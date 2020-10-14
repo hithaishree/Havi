@@ -6,9 +6,9 @@ Event List:-<br>
 <input type="checkbox" name="event[]" value="c" > C <br> 
 <input type="checkbox" name="event[]" value="java" > JAVA <br> 
 
-<input type="checkbox" name="event[]" value="php" > PHP <br> 
+<input type="checkbox" name="event[]" value="python" > PYTHON <br> 
 
-<input type="checkbox" name="event[]" value="wd" > Web Designing <br> <br><br>
+<input type="checkbox" name="event[]" value="html" > HTML <br> <br><br>
 <input type="submit" name="submit" value="Register">
 </form>
 <?php
